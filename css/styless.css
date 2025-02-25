@@ -47,26 +47,26 @@ ol, ul  {
 }
 
 .menu{
-    text-decoration: none;
-    color: #2e2f42;
+    text-decoration:none;
+    color:#2e2f42;
     font-size:16px;
-    font-weight: 500;
-    letter-spacing: 0.02em;
+    font-weight:500;
+    letter-spacing:0.02em;
 }
 .menu:hover, .menu:focus{
     color:#404bbf;
 }
 .contact_information{
-    font-style: normal;
+    font-style:normal;
 
 }
 .contact_list{
-    font-size: 16px;
-    letter-spacing: 0.02em;
-    color: #434455;
+    font-size:16px;
+    letter-spacing:0.02em;
+    color:#434455;
 }
 .contact_list:hover, .contact_list:focus{
-    color: #404bbf;
+    color:#404bbf;
 }
 menu:active{
     text-decoration: underline;
